@@ -1,5 +1,3 @@
-<html>
-    <head>
         <script>
             var a=4;
             var b=(2*a)+ " " +(a+5);
@@ -22,8 +20,3 @@
            document.write("<br>");
            document.write(g);
         </script>
-    </head>
-    <body>
-
-    </body>
-</html>
